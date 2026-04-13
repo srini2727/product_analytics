@@ -42,12 +42,6 @@ Variables include: acquisition source, plan tier, A/B variant, activation, first
 - **Cohort retention**: Monthly cohorts allow seasonality analysis — Q1 and Q3 consistently outperform Q2
 - **Source segmentation**: Referral users activate at highest rates, informing where to invest growth budget
 
-## 💡 The One Question I'd Answer First
-
-> *Which step in the application funnel has the highest drop-off — and is it a UX friction problem or a job-targeting problem?*
-
-Based on this mock dataset: **Activation → First Apply** is the biggest drop. The A/B test results suggest that improving job-match quality at onboarding (not just UX) is the higher-leverage fix.
-
 ---
 
 *Built with Python · Streamlit · Plotly · Pandas*
