@@ -1,11 +1,14 @@
 # LinkinReachly — Product Analytics Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appuctanalytics-vkv77mdg2djgr24d2wvuc7.streamlit.app/)
+
 **Portfolio Project** | Srinivasa Kommireddy | srinik27@outlook.com
 
 A product analytics dashboard built as a demonstration project for the LinkinReachly / Sentari AI Data Analyst Intern role. Simulates the kind of analytics infrastructure a startup like LinkinReachly would need to make data-driven product decisions.
 
 ## 🔗 Live App
-[**👉 Launch Dashboard**](https://appuctanalytics-vkv77mdg2djgr24d2wvuc7.streamlit.app/)
+
+**[👉 Click here to launch the dashboard](https://appuctanalytics-vkv77mdg2djgr24d2wvuc7.streamlit.app/)**
 
 ## 📊 What's Inside
 
@@ -26,9 +29,11 @@ Variables include: acquisition source, plan tier, A/B variant, activation, first
 
 ## 📸 Screenshots
 
-![Dashboard Overview](screenshots/dashboard1.png)
+*Click on any screenshot to open the live app*
 
-![Dashboard Analytics](screenshots/dashboard2.png)
+[![Dashboard Overview](screenshots/dashboard1.png)](https://appuctanalytics-vkv77mdg2djgr24d2wvuc7.streamlit.app/)
+
+[![Dashboard Analytics](screenshots/dashboard2.png)](https://appuctanalytics-vkv77mdg2djgr24d2wvuc7.streamlit.app/)
 
 ## 🧠 Key Analytical Decisions
 
