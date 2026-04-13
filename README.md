@@ -5,7 +5,7 @@
 A product analytics dashboard built as a demonstration project for the LinkinReachly / Sentari AI Data Analyst Intern role. Simulates the kind of analytics infrastructure a startup like LinkinReachly would need to make data-driven product decisions.
 
 ## 🔗 Live App
-[Deploy link — see setup below]
+[**👉 Launch Dashboard**](https://appuctanalytics-vkv77mdg2djgr24d2wvuc7.streamlit.app/)
 
 ## 📊 What's Inside
 
@@ -23,23 +23,12 @@ Synthetic dataset of **1,200 simulated users** across Jan–Dec 2024.
 
 Variables include: acquisition source, plan tier, A/B variant, activation, first apply, 7-day and 30-day retention, sessions/week, applies/session, AI apply %, message open rate, follow-up click rate.
 
-## 🚀 Run Locally
 
-```bash
-git clone <your-repo>
-cd linkinreachly-analytics
-pip install -r requirements.txt
-python generate_data.py   # generates data/users.csv
-streamlit run app.py
-```
+## 📸 Screenshots
 
-## ☁️ Deploy on Streamlit Cloud (Free)
+![Dashboard Overview](screenshots/dashboard1.png)
 
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repo
-4. Set main file path: `app.py`
-5. Deploy — live URL in ~2 minutes
+![Dashboard Analytics](screenshots/dashboard2.png)
 
 ## 🧠 Key Analytical Decisions
 
